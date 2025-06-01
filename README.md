@@ -41,7 +41,7 @@ All personal information you provide is securely stored in Google Firebase Fires
 
 Your Rights
 
-You can request to update or delete your information by contacting us at 1challahadley@gmail.com.
+You can request to update or delete your information by contacting us at QuickGigsapp@gmail.com
 
 Security
 
