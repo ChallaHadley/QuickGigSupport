@@ -5,7 +5,7 @@ Support for QuickGig app
 
 If you're experiencing a bug, issue, or have a question about the QuickGig app, please email:
 
-📩 **1challahadley@gmail.com**
+📩 **QuickGigsapp@gmail.com**
 
 Include a brief description of the problem and any screenshots if possible.
 
@@ -54,4 +54,4 @@ We may update this privacy policy from time to time. We will notify you of any s
 Contact Us
 
 If you have questions or concerns about this policy, please contact us at:
-1challahadley@gmail.com
+QuickGigsapp@gmail.com
