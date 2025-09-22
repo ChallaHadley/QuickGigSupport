@@ -5,7 +5,7 @@ Support for QuickGig app
 
 If you're experiencing a bug, issue, or have a question about the QuickGig app, please email:
 
-📩 **QuickGigsapp@gmail.com**
+📩 **quickgigs555@gmail.com**
 
 Include a brief description of the problem and any screenshots if possible.
 
@@ -24,12 +24,8 @@ Information We Collect
 
 When you use QuickGig, we collect the following personal information:
 	•	Name
-	•	Email address
 	•	Zip code
 	•	Address
-  • phone number
-  • Date of Birth
-  • Gender
 
 How We Use Your Information
 
@@ -54,4 +50,4 @@ We may update this privacy policy from time to time. We will notify you of any s
 Contact Us
 
 If you have questions or concerns about this policy, please contact us at:
-QuickGigsapp@gmail.com
+quickgigs555@gmail.com
